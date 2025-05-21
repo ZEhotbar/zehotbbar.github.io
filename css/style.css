@@ -101,18 +101,18 @@
   font-weight: 700;
   color: var(--color-text);
 }
-.container .header_inner .policy_check {
+.container .header_inner .policy_checkgit {
   padding-top: 24px;
 }
-.container .header_inner .policy_check #policy {
+.container .header_inner .policy_checkgit #policy {
   cursor: pointer;
   width: 20px;
   height: 20px;
 }
-.container .header_inner .policy_check label {
+.container .header_inner .policy_checkgit label {
   color: var(--color-gray);
 }
-.container .header_inner .policy_check label a {
+.container .header_inner .policy_checkgit label a {
   color: var(--color-gray);
 }
 .container .header_inner .register {
