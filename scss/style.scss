@@ -51,14 +51,14 @@
             @include custom_btn;
           }
         }
-      .policy_checkgit  {
+      .policy_check  {
         padding-top: 24px;
-        #policy {
-          cursor: pointer;
+        input {
           width: 20px;
           height: 20px;
         }
         label {
+          padding-left: 8px;
           color: var(--color-gray);
           a {
             color: var(--color-gray);
